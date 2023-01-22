@@ -1,17 +1,19 @@
 class script(object):
-    START_TXT = """Hello {},
-My Nαмe Iѕ <a href=https://t.me/{}>{}</a>, I Cαɴ Provιde Movιeѕ, Add Me To Yoυr Groυp Aɴd Mαĸe Me Adмιɴ.. Tнeɴ See My Power♥️♥️🔥"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
- Here Iѕ My Help Coммαɴdѕ."""
-    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: lυcαѕ вoт</b>
-<b>✮ Creαтor: <a href="https://t.me/Sovel_jaison"> ѕσνєℓ נαιѕση </a>
-<b>✮ Updαтe Cнαɴɴel:<a href="https://t.me/cinemahub00"> ᴄɪɴᴇᴍᴀ ʜᴜʙ </a></b>
-<b>✮ Lιвrαry: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
-<b>✮ Lαɴɢυαɢe: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
-<b>✮ Dαтα Bαѕe: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
-<b>✮ Boт Server: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
-<b>✮ Bυιld Sтαтυѕ: 𝚅1.0.43</b>
-<b>✮ Mαιɴтαιɴed By: <a href="https://t.me/bastin_joe"> вαѕтιη נσє </a></b>"""
+    START_TXT = """<b>𝗛𝗶 𝗠𝗮𝘁𝗲,🥰 𝗡𝗶𝗰𝗲 𝗧𝗼 𝗠𝗲𝗲𝘁 𝗬𝗼𝘂 {},
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>,
+𝗜 𝗔𝗺 𝗔 𝗦𝗶𝗺𝗽𝗹𝗲 𝗔𝘂𝘁𝗼 𝗙𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁 🪄, 
+𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂,🎬📽️ 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍
+👑 𝗠𝘆 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 @Sneak5166</b>"""
+    HELP_TXT = """<i>🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
+○  𝗂𝗍'𝗌 𝖭𝗈𝗍𝖾 𝖢𝗈𝗆𝗉𝗅𝗂𝖼𝖺𝗍𝖾𝖽...🤓
+○  𝖲𝖾𝖺𝗋𝖼𝗁 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾...⭐
+𝖳𝗁𝗂𝗌 𝗆𝖾𝗍𝗁𝗈𝖽 𝗐𝗈𝗋𝗄𝗌 𝗈𝗇 𝖺𝗇𝗒 𝖼𝗁𝖺𝗍, 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>Bot Username</b> 𝖺𝗇𝖽 𝗍𝗁𝖾𝗇 𝗅𝖾𝖺𝗏𝖾 𝖺 𝗌𝗉𝖺𝖼𝖾 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 𝖺𝗇𝗒 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍..."""
+    ABOUT_TXT = """<b>🥱 My Name : {}
+🕵‍♂ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Sneak5166'>Sɴᴇᴀᴋ ⌬</a>
+📚 Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
+🖥 Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
+🎪 DᴀᴛᴀBᴀsᴇ : <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
+🔋 Bᴏᴛɢʀᴏᴜᴘ : @Cinema_Beacon_Group"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
